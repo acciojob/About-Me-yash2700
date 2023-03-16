@@ -1,1 +1,13 @@
-
+lor: rgb(193, 190, 190);
+    height: 5px;
+    margin-top: 15px;
+}
+.oneskill{
+    margin: 10px;
+}
+.actualprogress{
+    width: 90%;
+    background-color: dodgerblue;
+    height: 5px;
+    margin: 15px 0px;
+}
